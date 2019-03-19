@@ -1,0 +1,113 @@
+NO,"003",Novara,Piemonte,NORD,0
+CN,"004",Cuneo,Piemonte,NORD,0
+AT,"005",Asti,Piemonte,NORD,0
+AL,"006",Alessandria,Piemonte,NORD,0
+BI,"096",Biella,Piemonte,NORD,0
+VB,"103",Verbano-Cusio-Ossola,Piemonte,NORD,0
+AO,"007",Aosta,Valle d'Aosta,NORD,0
+VA,"012",Varese,Lombardia,NORD,0
+CO,"013",Como,Lombardia,NORD,0
+SO,"014",Sondrio,Lombardia,NORD,0
+MI,"015",Milano,Lombardia,NORD,0
+BG,"016",Bergamo,Lombardia,NORD,0
+BS,"017",Brescia,Lombardia,NORD,0
+PV,"018",Pavia,Lombardia,NORD,0
+CR,"019",Cremona,Lombardia,NORD,0
+MN,"020",Mantova,Lombardia,NORD,0
+LC,"097",Lecco,Lombardia,NORD,0
+LO,"098",Lodi,Lombardia,NORD,0
+MB,"108",Monza e della Brianza,Lombardia,NORD,0
+BZ,"021",Bolzano,Trentino-Alto Adige,NORD,0
+TN,"022",Trento,Trentino-Alto Adige,NORD,0
+VR,"023",Verona,Veneto,NORD,0
+VI,"024",Vicenza,Veneto,NORD,0
+BL,"025",Belluno,Veneto,NORD,0
+TV,"026",Treviso,Veneto,NORD,0
+VE,"027",Venezia,Veneto,NORD,0
+PD,"028",Padova,Veneto,NORD,0
+RO,"029",Rovigo,Veneto,NORD,0
+UD,"030",Udine,Veneto,NORD,0
+GO,"031",Gorizia,Friuli-Venezia Giulia,NORD,0
+TS,"032",Trieste,Friuli-Venezia Giulia,NORD,0
+PN,"093",Pordenone,Friuli-Venezia Giulia,NORD,0
+IM,"008",Imperia,Liguria,NORD,0
+SV,"009",Savona,Liguria,NORD,0
+GE,"010",Genova,Liguria,NORD,0
+SP,"011",La Spezia,Liguria,NORD,0
+PC,"033",Piacenza,Emilia-Romagna,NORD,0
+PR,"034",Parma,Emilia-Romagna,NORD,0
+RE,"035",Reggio nell'Emilia,Emilia-Romagna,NORD,0
+MO,"036",Modena,Emilia-Romagna,NORD,0
+BO,"037",Bologna,Emilia-Romagna,NORD,0
+FE,"038",Ferrara,Emilia-Romagna,NORD,0
+RA,"039",Ravenna,Emilia-Romagna,NORD,0
+FC,"040",Forlì-Cesena,Emilia-Romagna,NORD,0
+RN,"099",Rimini,Emilia-Romagna,NORD,0
+MS,"045",Massa-Carrara,Toscana,CENTRO,0
+LU,"046",Lucca,Toscana,CENTRO,0
+PT,"047",Pistoia,Toscana,CENTRO,0
+FI,"048",Firenze,Toscana,CENTRO,0
+LI,"049",Livorno,Toscana,CENTRO,0
+PI,"050",Pisa,Toscana,CENTRO,0
+AR,"051",Arezzo,Toscana,CENTRO,0
+SI,"052",Siena,Toscana,CENTRO,0
+GR,"053",Grosseto,Toscana,CENTRO,0
+PO,"100",Prato,Toscana,CENTRO,0
+PG,"054",Perugia,Umbria,CENTRO,0
+TR,"055",Terni,Umbria,CENTRO,0
+PU,"041",Pesaro e Urbino,Marche,CENTRO,0
+AN,"042",Ancona,Marche,CENTRO,0
+MC,"043",Macerata,Marche,CENTRO,0
+AP,"044",Ascoli Piceno,Marche,CENTRO,0
+FM,"109",Fermo,Marche,CENTRO,0
+VT,"056",Viterbo,Lazio,CENTRO,0
+RI,"057",Rieti,Lazio,CENTRO,0
+RM,"058",Roma,Lazio,CENTRO,0
+LT,"059",Latina,Lazio,CENTRO,0
+FR,"060",Frosinone,Lazio,CENTRO,0
+AQ,"066",L'Aquila,Abruzzo,SUD,0
+TE,"067",Teramo,Abruzzo,SUD,0
+PE,"068",Pescara,Abruzzo,SUD,0
+CH,"069",Chieti,Abruzzo,SUD,0
+CB,"070",Campobasso,Molise,SUD,0
+IS,"094",Isernia,Molise,SUD,0
+CE,"061",Caserta,Campania,SUD,0
+BN,"062",Benevento,Campania,SUD,0
+NA,"063",Napoli,Campania,SUD,0
+AV,"064",Avellino,Campania,SUD,0
+SA,"065",Salerno,Campania,SUD,0
+FG,"071",Foggia,Puglia,SUD,0
+BA,"072",Bari,Puglia,SUD,0
+TA,"073",Taranto,Puglia,SUD,0
+BR,"074",Brindisi,Puglia,SUD,0
+LE,"075",Lecce,Puglia,SUD,0
+BT,"110",Barletta-Andria-Trani,Puglia,SUD,0
+PZ,"076",Potenza,Basilicata,SUD,0
+MT,"077",Matera,Basilicata,SUD,0
+CS,"078",Cosenza,Calabria,SUD,0
+CZ,"079",Catanzaro,Calabria,SUD,0
+RC,"080",Reggio di Calabria,Calabria,SUD,0
+KR,"101",Crotone,Calabria,SUD,0
+VV,"102",Vibo Valentia,Calabria,SUD,0
+TP,"081",Trapani,Sicilia,SUD,0
+PA,"082",Palermo,Sicilia,SUD,0
+ME,"083",Messina,Sicilia,SUD,0
+AG,"084",Agrigento,Sicilia,SUD,0
+CL,"085",Caltanissetta,Sicilia,SUD,0
+EN,"086",Enna,Sicilia,SUD,0
+CT,"087",Catania,Sicilia,SUD,0
+RG,"088",Ragusa,Sicilia,SUD,0
+SR,"089",Siracusa,Sicilia,SUD,0
+SS,"090",Sassari,Sardegna,SUD,0
+NU,"091",Nuoro,Sardegna,SUD,0
+CA,"092",Cagliari,Sardegna,SUD,0
+OR,"095",Oristano,Sardegna,SUD,0
+SU,"111",Sud Sardegna,Sardegna,SUD,0
+CI,"107",Carbonia-Iglesias (DISMESSA),Sardegna,SUD,1
+OG,"105",Ogliastra (DISMESSA),Sardegna,SUD,1
+VS,"106",Medio Campidano (DISMESSA),Sardegna,SUD,1
+TO,"001",Torino,Piemonte,NORD,0
+VC,"002",Vercelli,Piemonte,NORD,0
+FO,"40",Forlì (DISMESSA),Emilia-Romagna,NORD,1
+OT,"104",Olbia-Tempio (DISMESSA),Sardegna,SUD,1
+PS,"41",Pesaro (DISMESSA),Marche,CENTRO,1
